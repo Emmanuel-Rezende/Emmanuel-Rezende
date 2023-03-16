@@ -36,4 +36,11 @@ src="https://img.shields.io/github/followers/Emmanuel-Rezende?logo=github&style=
 
 <p align="left"> <a href="https://www.github.com/Emmanuel-Rezende" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emmanuel-rezende-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<div align="center">
+  <p align="center"><strong>Estatísticas:</strong></p>
+  <a href="https://github.com/Emmanuel-Rezende">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Rezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Rezende&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ![Snake animation](https://github.com/Emmanuel-Rezende/Emmanuel-Rezende/blob/output/github-contribution-grid-snake.svg)

@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/Emmanuel-Rezende?logo=github&style=
   <p align="center"><strong>Estatísticas:</strong></p>
   <a href="https://github.com/Emmanuel-Rezende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Rezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Rezende&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Rezende&layout=compact&langs_count=8454485484&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/Emmanuel-Rezende/Emmanuel-Rezende/blob/output/github-contribution-grid-snake.svg)
